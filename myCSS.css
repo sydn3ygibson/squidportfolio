@@ -4,10 +4,10 @@ body {
 	
 	}
 a:link {
-     color: #BE01A5;
+     color: #735D61;
 }
 a:visited {
-     color: #2601A5;
+     color: #E35F63;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
@@ -17,24 +17,23 @@ a:hover, a:active, a:focus {
 	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
 }
 .homePage {
-	background: #222223;
+	background: #9E8AAB;
 }
 .container {
 	width: 960px;
 	margin: 0 auto;
 }
 .header {
-	background: #F59FAD;
+	background: #DEBED4;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
 	float: left;
 	width: 100%;
 	height: 80px;
-	
 }
 .nav {
-	background: #F2E6E8;
+	background: #F5C6CF;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -50,7 +49,7 @@ a:hover, a:active, a:focus {
 	text-align: center;
 }
 .footer {
-	background: #F59FAD;
+	background: #DEBED4;
 	margin: 0px;
 	float: left;
 	width: 100%;
