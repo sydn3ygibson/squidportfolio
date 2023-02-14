@@ -1,6 +1,18 @@
 @charset "UTF-8";
 /* This is a comment! Text here will be ignored by the browser. */
 body {
+	
+	}
+a:link {
+     color: #000000;
+}
+a:visited {
+     color: #000;
+}
+a:hover, a:active, a:focus { 
+     text-decoration: underline;
+}
+
 	margin: 0 auto;
 	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
 }
@@ -44,13 +56,3 @@ body {
 	width: 100%;
 	height: 50px;
 	text-align: center;
-}
-a:link {
-     color: #000000;
-}
-a:visited {
-     color: #000;
-}
-a:hover, a:active, a:focus { 
-     text-decoration: underline;
-}
