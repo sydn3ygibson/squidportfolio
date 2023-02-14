@@ -4,10 +4,10 @@ body {
 	
 	}
 a:link {
-     color: #000000;
+     color: #523539;
 }
 a:visited {
-     color: #000;
+     color: #AD35B1;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
@@ -24,7 +24,7 @@ a:hover, a:active, a:focus {
 	margin: 0 auto;
 }
 .header {
-	background: #F1E5E7;
+	background: #F59FAD;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -34,7 +34,7 @@ a:hover, a:active, a:focus {
 	
 }
 .nav {
-	background: #F59FAD;
+	background: #F2E6E8;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -50,7 +50,7 @@ a:hover, a:active, a:focus {
 	text-align: center;
 }
 .footer {
-	background: #F1E5E7;
+	background: #F59FAD;
 	margin: 0px;
 	float: left;
 	width: 100%;
