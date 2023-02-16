@@ -43,9 +43,9 @@ a:hover, a:active, a:focus {
 }
 .content {
 	background: #EEEEEE;
-	margin: 0px;
+	margin: 10px;
 	float: left;
-	width: 95%;
+	width: 100%;
 	text-align: left;
 }
 .footer {
