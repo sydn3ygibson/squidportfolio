@@ -7,7 +7,7 @@ a:link {
      color: #000000;
 }
 a:visited {
-     color: #E35F63;
+     color: #000000;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
@@ -55,11 +55,3 @@ a:hover, a:active, a:focus {
 	width: 100%;
 	height: 50px;
 	text-align: center;
-	
-body {
-     font: 100%/1.4 Optima, sans-serif;
-     background-color: #FFFFFF;
-     margin: 0;
-     padding: 0;
-     color: #000;
-}
